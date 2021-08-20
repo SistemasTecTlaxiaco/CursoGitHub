@@ -1,13 +1,11 @@
-# Welcome to Module 4: GitHub Education
+# Bienvenido al Módulo 4: Educación de GitHub
+En este módulo, se le presentará a GitHub Education y algunas de las oportunidades que ponemos a disposición de los estudiantes.
+## Lecciones
 
-In this module you will be introduced to GitHub Education and some of the opportunities we make available for students.
+**Todos los archivos de tareas se pueden encontrar en la parte superior de la página.**
 
-## Lessons
+### Módulo 4:
 
-**All assignment files can be found at the top of the page.**
+[:tv: Modulo 4 Video](https://youtu.be/ijtovaZpPWY)
 
-### Module 4:
-
-[:tv: Module 4 Video](https://youtu.be/ijtovaZpPWY)
-
-:notebook: Module 4 Assignment
+:notebook: Asignación del módulo 4
