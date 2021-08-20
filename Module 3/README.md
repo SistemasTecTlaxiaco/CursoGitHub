@@ -1,36 +1,35 @@
-# Welcome to Module 3: GitHub Classroom
+# Bienvenido al Módulo 3: Aula de GitHub
 
-Welcome to Module 3! In this module, you will be introduced to GitHub Classroom. You will learn:
-- How to automate and scale your classes 
-- The best practices for getting insight into student work
-- New workflows for grading and giving feedback on student work
-- How to create an Organization and Classroom
-- How to create assignments
-- How to configure online IDEs with assignments
-- How to add autograding to your assignments
+¡Bienvenido al Módulo 3! En este módulo, se le presentará GitHub Classroom. Aprenderás:
+- Cómo automatizar y escalar tus clases
+- Las mejores prácticas para obtener información sobre el trabajo de los estudiantes
+- Nuevos flujos de trabajo para calificar y dar retroalimentación sobre el trabajo de los estudiantes
+- Cómo crear una organización y un aula
+- Cómo crear asignaciones
+- Cómo configurar IDE en línea con asignaciones
+- Cómo agregar la calificación automática a sus asignaciones
+- 
+**Prerrequisitos**: Módulo 1 y Módulo 2
+Equivalente: finalización del programa de desarrollo profesional para maestros de GitHub
 
-**Prerequisites**: Module 1 and Module 2  
-Equivalent: Completion of the GitHub Teacher Professional Development program
+## Lecciones
+**Todos los archivos de tareas se pueden encontrar en la parte superior de la página.**
 
+### Módulo 3.0: Descripción general de GitHub Classroom
+📺  [ Modulo 3.0 Video](https://youtu.be/CXacEwR9trw)  
 
-## Lessons
-**All assignment files can be found at the top of the page.**
+### Módulo 3.1: Empiece a utilizar GitHub Classroom creando su primera organización y Classroom
+📺  [ Modulo 3.1 Video](https://www.youtube.com/watch?v=KXWXg68KpTY)  
+:notebook: Completar la asignación del módulo 3.1
 
-### Module 3.0: Overview of GitHub Classroom
-📺  [ Module 3.0 Video](https://youtu.be/CXacEwR9trw)  
+### Módulo 3.2: Creación de su primera tarea de GitHub Classroom
+📺  [ Modulo 3.2 Video](https://youtu.be/KXWXg68KpTY?t=485)  
+:notebook: Completar la asignación del módulo 3.2
 
-### Module 3.1: Get started with GitHub Classroom by creating your first organization and Classroom
-📺  [ Module 3.1 Video](https://www.youtube.com/watch?v=KXWXg68KpTY)  
-:notebook: Complete Module 3.1 Assignment  
-
-### Module 3.2: Creating your first GitHub Classroom assignment
-📺  [ Module 3.2 Video](https://youtu.be/KXWXg68KpTY?t=485)  
-:notebook: Complete Module 3.2 Assignment
-
-### Module 3.3: Creating assignments with online IDE integrations
+### Módulo 3.3: Creación de asignaciones con integraciones IDE en línea
 📺  [ Module 3.3 Video](https://youtu.be/KXWXg68KpTY?t=944)  
-:notebook: Complete Module 3.3 Assignment
+:notebook: Completar la asignación del módulo 3.3
 
-### Module 3.4: Creating an assignment with autograding
+### Module 3.4: Crear una tarea con calificación automática
 📺  [ Module 3.4 Video](https://www.youtube.com/watch?v=mwCZRVJhH60)  
-:notebook: Complete Module 3.4 Assignment
+:notebook: Completar la asignación del módulo 3.4
