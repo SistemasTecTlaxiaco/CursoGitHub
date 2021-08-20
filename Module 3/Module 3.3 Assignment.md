@@ -1,18 +1,17 @@
-# Module 3.3 Assignment
+# Módulo 3.3 Asignación
 
-In this section, you learned how to create assignments integrated with an online IDE, allowing students to complete their work in a consistent development environment.
+En esta sección, aprendió cómo crear tareas integradas con un IDE en línea, lo que les permite a los estudiantes completar su trabajo en un entorno de desarrollo consistente.
 
-In this assignment, you’ll create an assignment in GitHub Classroom with an IDE integration of your choice (Repl.it or MakeCode):
- - Create a new assignment in your classroom
- - Fill out the basic assignment details if prompted then click “Continue”
- - Add a repository to give students starter code
- - Select the online IDE of your choice. Configure language and run command as needed
- - Enable feedback Pull Requests on all student repositories
- - Click “Create assignment”
+En esta tarea, creará una tarea en GitHub Classroom con una integración IDE de su elección (Repl.it o MakeCode):
+ - Crea una nueva tarea en tu salón de clases
+ - Complete los detalles básicos de la tarea si se le solicita y luego haga clic en "Continuar"
+ - Agregue un repositorio para darles a los estudiantes un código de inicio
+ - Seleccione el IDE en línea de su elección. Configure el idioma y ejecute el comando según sea necesario
+ - Habilitar solicitudes de extracción de comentarios en todos los repositorios de estudiantes
+ - Haz clic en "Crear tarea".
 
-Follow the prompts to grant access to the organization you are using for your Classroom. Make sure to grant access to all student repositories, then come back to GitHub Classroom when you’re done.   
+Sigue las indicaciones para otorgar acceso a la organización que estás usando para tu Classroom. Asegúrate de otorgar acceso a todos los repositorios de estudiantes y luego regresa a GitHub Classroom cuando hayas terminado.
 
-When you’ve granted access to the online IDE, you’re all set to share your assignment with your students.   
-
-## Submission
-To submit this assignment, create an issue titled `Module 3.3 Assignment` in this repository. In the issue, provide the invitation link to accept the assignment you created then proceed to the next section in this module.
+Cuando haya otorgado acceso al IDE en línea, estará listo para compartir su tarea con sus alumnos.
+## Sumisión
+Para enviar esta tarea, cree un problema titulado "Módulo 3.3 Asignación" en este repositorio. En el problema, proporcione el enlace de invitación para aceptar la tarea que creó y luego continúe con la siguiente sección de este módulo.
