@@ -1,8 +1,8 @@
-# Assignment 2: Teacher Toolbox
-In order to become a GitHub Campus Advisor, you’ll need the Teacher Toolbox (if you do not already have it).
-Head over to the [Teacher Toolbox](https://education.github.com/toolbox) and fill out the application. You’ll need to provide dated proof that you are a faculty member at your institution, so have that on hand.
+# Tarea 2: Caja de herramientas del profesor
+Para convertirse en un asesor de campus de GitHub, necesitará la Caja de herramientas para profesores (si aún no la tiene).
+Dirígete a [Teacher Toolbox] (https://education.github.com/toolbox) y completa la solicitud. Deberá proporcionar una prueba fechada de que es miembro de la facultad de su institución, así que téngala a mano.
 
-Some Teacher Toolbox applications require a manual review, so we highly recommend you apply at the beginning of your training if you plan on becoming a GitHub Campus Advisor. After you have applied, your confirmation page will indicate approximately how long your application review may take.
+Algunas aplicaciones de Teacher Toolbox requieren una revisión manual, por lo que le recomendamos que presente su solicitud al comienzo de su capacitación si planea convertirse en un asesor de campus de GitHub. Una vez que haya presentado la solicitud, su página de confirmación indicará aproximadamente cuánto tiempo puede demorar la revisión de su solicitud.
 
-## Submission
-There is no submission for this assignment
+## Sumisión
+No hay envío para esta tarea
