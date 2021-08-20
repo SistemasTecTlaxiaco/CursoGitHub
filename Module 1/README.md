@@ -1,42 +1,38 @@
-# Welcome to Module 1: Git Basics
+# Bienvenido al Módulo 1: Conceptos básicos de Git
 
-In this module you will be introduced to Git. This module will cover:
+En este módulo se le presentará a Git. Este módulo cubrirá:
 
-* What is version control?
-* What is Distributed Version Control?
-* What is a Git repository?
-* Basic Bash and Git commands
-* The Git workflow and the Three State Model
-* How to be selective with Git commits
-* How does Git save commits
-* How to branch and merge your branches
+* ¿Qué es el control de versiones?
+* ¿Qué es el control distribuido de versiones?
+* ¿Qué es un repositorio de Git?
+* Comandos básicos de Bash y Git
+* El flujo de trabajo de Git y el modelo de tres estados
+* Cómo ser selectivo con las confirmaciones de Git
+* ¿Cómo guarda Git las confirmaciones?
+* Cómo ramificar y fusionar sus ramas
+## Lecciones
 
-## Lessons
+**Todos los archivos de tareas se pueden encontrar en la parte superior de la página.**
 
-**All assignment files can be found at the top of the page.**
+### Módulo 1.1: Conoce a Git
 
-### Module 1.1: Meet Git
+[:tv: Modulo 1.1 Video](https://youtu.be/uWsXEmaM3PA)
 
-[:tv: Module 1.1 Video](https://youtu.be/uWsXEmaM3PA)
+:notebook: Completar la asignación del módulo 1.1
 
-:notebook: Complete Module 1.1 Assignment
+### Módulo 1.2: El modelo de tres estados
 
-### Module 1.2: The Three State Model
+[:tv: Modulo 1.2 Video](https://youtu.be/yLLZdOIuCfg)
 
-[:tv: Module 1.2 Video](https://youtu.be/yLLZdOIuCfg)
-
-:notebook: Complete Module 1.2 Assignment
-
-### Module 1.3: Being Selective with Git
-
+:notebook: Completar la asignación del módulo 1.2
+### Módulo 1.3: Ser selectivo con Git
 [:tv: Module 1.3 Video](https://youtu.be/3zmolo8YRO8)
 
-:notebook: Complete Module 1.3 Assignment
+:notebook: Completar la asignación del módulo 1.3
 
-### Module 1.4: Branches and Merging
+### Módulo 1.4: Ramas y fusiones
 
-[:tv: Module 1.4 Video](https://youtu.be/2YDoQZ9nZ4g)
+[:tv: Modulo 1.4 Video](https://youtu.be/2YDoQZ9nZ4g)
 
-:notebook: Complete Module 1.4 Assignment
-
+:notebook: Completar la asignación del módulo 1.4
 
