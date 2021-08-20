@@ -1,38 +1,37 @@
-# Welcome to Module 2: GitHub Basics
+# Bienvenido al Módulo 2: Conceptos básicos de GitHub
 
-In this module you will be introduced to GitHub. This module will cover:
+En este módulo, se le presentará GitHub. Este módulo cubrirá:
 
-* Communicating with a remote
-* Git commands for working with a remote
-* Fetching and Pulling from GitHub
-* Git commands to request updates from GitHub
-* The GitHub Workflow
-* Resolving Merge Conflicts
+* Comunicarse con un control remoto
+* Comandos de Git para trabajar con un control remoto
+* Obtención y extracción de GitHub
+* Comandos de Git para solicitar actualizaciones de GitHub
+* El flujo de trabajo de GitHub
+* Resolución de conflictos de fusión
 
-## Lessons
 
-**All assignment files can be found at the top of the page.**
+## Lecciones
 
-### Module 2.1: Pushing to a Remote
+**Todos los archivos de tareas se pueden encontrar en la parte superior de la página.**
 
-[:tv: Module 2.1 Video](https://youtu.be/R2bLo-KiYlU)
+### Módulo 2.1: Empujar a un control remoto
 
-:notebook: Complete Module 2.1 Assignment
+[:tv: Modulo 2.1 Video](https://youtu.be/R2bLo-KiYlU)
 
-### Module 2.2: Fetching and Pulling from a Remote
+:notebook: Completar la asignación del módulo 2.1
 
-[:tv: Module 2.2 Video](https://youtu.be/gNaCC_8B1k0)
+### Módulo 2.2: Obtener y extraer desde un control remoto
 
-:notebook: Complete Module 2.2 Assignment
+[:tv: Modulo 2.2 Video](https://youtu.be/gNaCC_8B1k0)
 
-### Module 2.3: GitHub Workflow
+:notebook: Completar la asignación del módulo 2.2
+### Módulo 2.3: Flujo de trabajo de GitHub
 
-[:tv: Module 2.3 Video](https://youtu.be/SoaAoATcUxU)
+[:tv: Modulo 2.3 Video](https://youtu.be/SoaAoATcUxU)
 
-:notebook: Complete Module 2.3 Assignment
+:notebook: Completar la asignación del módulo 2.3
 
-### Module 2.4: Merge Conflicts
+### Módulo 2.4: Fusionar conflictos
+[:tv: Modulo 2.4 Video](https://youtu.be/c1210JclnPw)
 
-[:tv: Module 2.4 Video](https://youtu.be/c1210JclnPw)
-
-:notebook: Complete Module 2.4 Assignment
+:notebook: Completar la asignación del módulo 2.4
