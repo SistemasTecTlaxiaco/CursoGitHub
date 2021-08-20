@@ -1,14 +1,14 @@
 # Module 1.3 Assignment
 
-Now that you have learned more about Git, on the command line I would like you to do the following:
+Ahora que ha aprendido más sobre Git, en la línea de comando me gustaría que hiciera lo siguiente:
 
-- [ ] Create a file called `campus_advisor.txt` in the directory you created in Module 1.2
-- [ ] Write "Hello Campus Advisors!" in `campus_advisor.txt` and **commit** your changes
-- [ ] Now write "Hola Campus Advisors!" in `campus_advisor.txt`
-- [ ] Show the differences between your _Working Directory_ and _Staging Area_
-- [ ] Add `campus_advisor.txt` to your _Staging Area_
-- [ ] Show the differences between your _Staging Area_ and your _Repository_
-- [ ] Commit campus_advisor.txt to your repository
+- [ ] Cree un archivo llamado `campus_advisor.txt` en el directorio que creó en el Módulo 1.2
+- [ ] Escriba "¡Hola, asesores del campus!" en `campus_advisor.txt` y ** confirma ** tus cambios
+- [ ] Ahora escriba "Hola Campus Advisors!" en `campus_advisor.txt`
+- [ ] Muestre las diferencias entre su _Directorio de trabajo_ y el _Área de preparación_
+- [ ] Agrega `campus_advisor.txt` a tu _Staging Area_
+- [ ] Muestra las diferencias entre tu _Staging Area_ y tu _Repository_
+- [ ] Confirme campus_advisor.txt en su repositorio
 
-Once you have completed these steps, take a screenshot of your command line, with the steps above, 
-and upload your screenshot to a new Issue titled Module 1.3 Assignment.
+Una vez que haya completado estos pasos, tome una captura de pantalla de su línea de comando, con los pasos anteriores,
+y cargue su captura de pantalla en un nuevo número titulado Asignación del módulo 1.3.
