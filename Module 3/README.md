@@ -8,7 +8,7 @@
 - Cómo crear asignaciones
 - Cómo configurar IDE en línea con asignaciones
 - Cómo agregar la calificación automática a sus asignaciones
-- 
+
 **Prerrequisitos**: Módulo 1 y Módulo 2
 Equivalente: finalización del programa de desarrollo profesional para maestros de GitHub
 
