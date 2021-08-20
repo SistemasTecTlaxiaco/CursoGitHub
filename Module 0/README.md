@@ -1,12 +1,11 @@
-# Module 0
+# Modulo 0
 
-Welcome to Module 0!
+Bienvenido al Modulo 0!
 
-In this module we’ll get you set up with everything you need to complete the Campus Advisors training.
+En este módulo, lo prepararemos con todo lo que necesita para completar la capacitación de Campus Advisor con Aulas Agiles
+## Leccion
+Todos los archivos de tareas se pueden encontrar en la parte superior de esta página.
 
-## Lessons
-All assignment files can be found at the top of this page.
-
--  📺 [Module 0.0 Video](https://youtu.be/Ub8IMMMTfB8)
--  📓 Complete Module 0.1 Assignment
--  📓 Complete Module 0.2 Assignment
+-  📺 [Modulo0 0.0 Video](https://youtu.be/Ub8IMMMTfB8)
+-  📓 Complete el Module 0.1 Asignación
+-  📓 Complete Module 0.2 Asignación
