@@ -1,18 +1,19 @@
-# Module 5 - Utilizing AWS Cloud9 in the Classroom
-In this lesson we are going to take an opportunity to explore AWS Educate and AWS Cloud9.  Becoming an AWS Educate member provides a wide variety of benefits. The one benefit we will explore in this lesson is the ability to use the AWS Cloud9 IDE for free. Cloud9 is a cloud-based IDE, a place where you can write, run, and debug your code with just a browser.
+# Módulo 5: Utilización de AWS Cloud9 en el aula
 
-In this module you will signup for a free AWS Educate Account and explore how to provide your students access. Afterwards, we will dive into how to use GitHub Classroom alongside AWS Educate to expose your students to the industry tool, AWS Cloud9 IDE.
+En esta lección, aprovecharemos la oportunidad para explorar AWS Educate y AWS Cloud9. Convertirse en miembro de AWS Educate ofrece una amplia variedad de beneficios. El único beneficio que exploraremos en esta lección es la capacidad de utilizar AWS Cloud9 IDE de forma gratuita. Cloud9 es un IDE basado en la nube, un lugar donde puede escribir, ejecutar y depurar su código con solo un navegador.
 
-5.1 Join AWS Educate
+En este módulo, se registrará para obtener una cuenta gratuita de AWS Educate y explorará cómo proporcionar acceso a sus estudiantes. Luego, profundizaremos en cómo usar GitHub Classroom junto con AWS Educate para exponer a sus estudiantes a la herramienta de la industria, AWS Cloud9 IDE.
 
-:tv: [Getting Started with AWS Educate](https://s3.amazonaws.com/awseducate-onboarding/Educator+Toolkit/Movies/Getting+Started+with+AWS+Educate.mp4)
+5.1 Únase a AWS Educate
 
-:notebook:[Create an AWS Educate account](https://aws.amazon.com/education/awseducate/)
+:tv: [Cree un aula de AWS Introducción a AWS Educate](https://s3.amazonaws.com/awseducate-onboarding/Educator+Toolkit/Movies/Getting+Started+with+AWS+Educate.mp4)
 
-5.2 Create an AWS Classroom
+:notebook:[Cree una cuenta de AWS Educate](https://aws.amazon.com/education/awseducate/)
 
-:tv: [Getting Started with AWS Educate Classrooms](https://s3.amazonaws.com/awseducate-onboarding/Educator+Toolkit/Movies/AWS+Educate+Educator+Classrooms+Overview.mp4)
+5.2 Cree un aula de AWS
 
-5.3 The Student Perspective: Assigning an AWS Cloud9 Assignment
+:tv: [Introducción a AWS Educate Classrooms](https://s3.amazonaws.com/awseducate-onboarding/Educator+Toolkit/Movies/AWS+Educate+Educator+Classrooms+Overview.mp4)
 
-:tv: [The Student Perspective: Assigning an AWS Cloud9 Assignment](https://youtu.be/bBPRD8ytWcI)
+5.3 La perspectiva del estudiante: asignación de una asignación de AWS Cloud9
+
+:tv: [La perspectiva del estudiante: asignación de una asignación de AWS Cloud9](https://youtu.be/bBPRD8ytWcI)
