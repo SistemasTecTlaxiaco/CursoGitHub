@@ -1,15 +1,15 @@
-# Module 3.1 Assignment
+# Módulo 3.1 Asignación
 
-In this lesson, you learned how to create your own Classroom. For this assignment, rearrange the instructions below in the correct order to create your own Classroom. 
-1. Authorize access to GitHub Classroom for your GitHub account 
-2. Add a student roster
-3. Start at classroom.github.com and sign in with your GitHub account
-4. Click the “Create your first classroom” button, then create and/or authorize an organization for your new classroom
-5. Invite TAs and admins to your GitHub organization and send them your classroom invitation URL
-6. Name your classroom (e.g. Fall 2020 CS101), then click continue
+En esta lección, aprendió a crear su propio Classroom. Para esta tarea, reorganice las instrucciones a continuación en el orden correcto para crear su propio aula.
+1. Autorice el acceso a GitHub Classroom para su cuenta de GitHub
+2. Agrega una lista de estudiantes
+3. Empiece en aula.github.com e inicie sesión con su cuenta de GitHub.
+4. Haga clic en el botón "Crear su primera aula" y, luego, cree o autorice una organización para su nueva aula.
+5. Invite a los asistentes técnicos y administradores a su organización de GitHub y envíeles la URL de su invitación al aula.
+6. Nombre su salón de clases (por ejemplo, Otoño de 2020 CS101), luego haga clic en Continuar
 
+## Sumisión
 
-## Submission
-To submit this assignment, edit this file on the `edit-module-assignment` branch by clicking the pencil icon, then replace the answer below with your own. When you’re finished, open a Pull Request with the changes you’ve made titled `Module 3.1 Assignment` to submit, then proceed to the next section in this module.
+Para enviar esta tarea, edite este archivo en la rama `editar-módulo-asignación` haciendo clic en el ícono de lápiz, luego reemplace la respuesta a continuación con la suya. Cuando haya terminado, abra una solicitud de extracción con los cambios que ha realizado titulada "Asignación del módulo 3.1" para enviarla, luego continúe con la siguiente sección de este módulo.
 
-_Example Answer: 123456_
+_Ejemplo de respuesta: 123456_
