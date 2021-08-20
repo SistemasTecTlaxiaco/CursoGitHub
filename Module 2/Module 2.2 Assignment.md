@@ -1,12 +1,12 @@
-# Module 2.2 Assignment Jose Alfredo Roman Cruz
+# Módulo 2.2 Asignación
 
-In this lesson, you learned how to commit file changes, create branches, and fetch and pull updates from GitHub. To complete this assignment, you’ll change this file in a new branch on GitHub and then pull the changes to your local repository by following the instructions below:
+En esta lección, aprendió cómo confirmar cambios en archivos, crear ramas y obtener y extraer actualizaciones de GitHub. Para completar esta tarea, cambiará este archivo en una nueva rama en GitHub y luego extraerá los cambios a su repositorio local siguiendo las instrucciones a continuación:
 
-1. Create a new branch named `edit-module-assignment` on GitHub
-2. On the `edit-module-assignment` branch, edit this file `Module 2.2 Assignment.md` by clicking the pencil, or 'Edit', icon
-3. In the editor for `Module 2.2 Assignment`, add your name on the first line above the title, then scroll towards the bottom of the page and click “Commit changes”
-4. On the `Campus-Advisor-Training` repository you cloned to your computer in the last assignment, fetch and merge the changes you’ve made in this file into your `master` branch using the command line
+1. Cree una nueva rama llamada `editar-asignación-módulo` en GitHub
+2. En la rama `editar-módulo-asignación`, edite este archivo` Módulo 2.2 Asignación.md` haciendo clic en el icono de lápiz o 'Editar'
+3. En el editor de "Asignación del módulo 2.2", agregue su nombre en la primera línea sobre el título, luego desplácese hacia la parte inferior de la página y haga clic en "Confirmar cambios".
+4. En el repositorio `Campus-Advisor-Training` que clonó en su computadora en la última tarea, busque y combine los cambios que ha realizado en este archivo en su rama` master` usando la línea de comando
 
 
-## Submission
-To submit this assignment, create an issue titled `Module 2.2 Assignment` in this repository. In the issue, provide a screenshot of your command line showing the commands you used to complete this assignment, then proceed to the next section in this module.
+## Sumisión
+Para enviar esta tarea, cree un problema titulado "Asignación del módulo 2.2" en este repositorio. En el problema, proporcione una captura de pantalla de su línea de comandos que muestre los comandos que utilizó para completar esta tarea, luego continúe con la siguiente sección de este módulo.
