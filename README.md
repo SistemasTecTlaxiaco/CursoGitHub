@@ -1,26 +1,26 @@
-# Welcome to Campus Advisor Training
-Welcome to Campus Advisor training. We’re so happy you’re here!  
+# Bienvenido al Curso de Campus Advisor de Aulas Agiles
+Bienvenido a la formación de Campus Advisor. ¡Estamos tan felices de que estés aquí!
 
-In this training, you will be presented with a mix of video lessons and assignments. All videos and assignments can be found in this repository under their respective modules.  
+En esta capacitación, se le presentará una combinación de lecciones y asignaciones en video. Todos los videos y asignaciones se pueden encontrar en este repositorio en sus respectivos módulos.  
 
-In each module, you will find video lessons marked with this icon 📺 and assignments will be marked with this icon 📓. 
+En cada módulo, encontrará lecciones en video marcadas con este ícono 📺 y las asignaciones estarán marcadas con este ícono 📓.
 
-## To begin
-Your journey begins in Module 0, where you’ll setup everything you need to complete the training.
+## Para empezar
+Su viaje comienza en el Módulo 0, donde configurará todo lo que necesita para completar la capacitación.
 
-## When you are finished
-Once you have completed the training, you’re free to end there with your new knowledge. If you want to take it a step further, you might want to become a GitHub Campus Advisor.
+## Cuando Termines
+Una vez que haya completado la capacitación, puede terminar allí con sus nuevos conocimientos. Si desea dar un paso más, es posible que desee convertirse en un asesor de campus de GitHub.
 
-GitHub Campus Advisors are a community of educator leaders who champion industry tools in their classroom. As a Campus Advisor, you’ll:
-- Join a collaborative network that allows you to learn from your peers, see how they’re supporting their classrooms, and share your own tips
-- Receive professional development support from GitHub
-- Be invited to participate in GitHub Education sponsored conferences
+Los asesores de campus de GitHub son una comunidad de líderes educadores que defienden las herramientas de la industria en su aula. Como asesor del campus, usted:
+- Únase a una red de colaboración que le permite aprender de sus compañeros, ver cómo apoyan sus aulas y compartir sus propios consejos.
+- Recibir soporte de desarrollo profesional de GitHub
+- Ser invitado a participar en conferencias patrocinadas por GitHub Education
  
-Educators who have been approved for faculty benefits through the GitHub Teacher Toolbox may apply to become a Campus Advisor.
-Once you have completed Modules 1-4, you can find a link to the Campus Advisor application in the [GitHub Teacher Toolbox](https://education.github.com/toolbox/offers). After filling that out, we will review your training materials and follow up with you to schedule a short 15-minute interview.
+Los educadores que hayan sido aprobados para los beneficios de la facultad a través de la Caja de herramientas para maestros de GitHub pueden postularse para convertirse en Asesores de campus.
+Una vez que haya completado los Módulos 1-4, puede encontrar un enlace a la aplicación Campus Advisor en [GitHub Teacher Toolbox] (https://education.github.com/toolbox/offers). Después de completarlo, revisaremos sus materiales de capacitación y nos pondremos en contacto con usted para programar una breve entrevista de 15 minutos.
 
 ## This is your training
-It is beneficial that you take advantage of the resources presented to you, but if you find instances where things can be improved, please create an issue in the original repository [here](https://github.com/github-campus-advisors/Campus-Advisor-Training/issues). If you are not familiar with issues in GitHub, no worries, you will learn about them soon.
+Es beneficioso que aproveche los recursos que se le presentan, pero si encuentra casos en los que se pueden mejorar las cosas, cree un problema en el repositorio original [aquí] (https://github.com/github-campus-advisors / Campus-Asesor-Formación / cuestiones). Si no está familiarizado con los problemas en GitHub, no se preocupe, pronto los conocerá.
 
-## Questions
-If you have any questions regarding setup or on any of the learning modules, head over to the [GitHub Education Community](https://education.github.community/c/teachers/advisors) for assistance.
+## Preguntas
+Si tiene alguna pregunta sobre la configuración o sobre cualquiera de los módulos de aprendizaje, diríjase a la [Comunidad educativa de GitHub] (https://education.github.community/c/teachers/advisors) para obtener ayuda.
