@@ -1,25 +1,22 @@
-# Module 3.2 Assignment
+# Módulo 3.2 Asignación
 
-In this section, you learned how to create your first assignment in GitHub Classroom by completing the following the instructions:
-- Navigate to the classroom you created in section 3.1, then click “Create your first assignment”
-- Fill out the assignment details
-  - Assignment title
-  - Assignment deadline
-  - Select type of assignment (individual or group)
-  - Select the repository visibility (public/private)
-  - Select whether you’d like your students to have admin access to their repositories
-- Provide starter code for the assignment by selecting an existing repository
-- Enable feedback pull requests on all student repositories
-- Click “Create assignment”  
-
+En esta sección, aprendiste cómo crear tu primera tarea en GitHub Classroom completando las siguientes instrucciones:
+- Navega hasta el aula que creaste en la sección 3.1 y luego haz clic en "Crear tu primera tarea".
+- Complete los detalles de la tarea
+  - Título de la tarea
+  - Fecha límite de asignación
+  - Seleccionar tipo de asignación (individual o grupal)
+  - Seleccione la visibilidad del repositorio (público / privado)
+  - Seleccione si desea que sus alumnos tengan acceso de administrador a sus repositorios.
+- Proporcione el código de inicio para la tarea seleccionando un repositorio existente
+- Habilite las solicitudes de extracción de comentarios en todos los repositorios de estudiantes
+- Haz clic en "Crear tarea".
   
-For this assignment, create an individual assignment in GitHub Classroom that contains the following:
-- No assignment deadline
-- Starter code from a repository in your organization (Need help creating a repository? Watch our [Git and GitHub Basics video](https://www.youtube.com/watch?v=tswF0wpAbTo))
-- Private repository visibility
-- Enabled feedback pull requests on all student repositories  
-
+Para esta tarea, crea una tarea individual en GitHub Classroom que contenga lo siguiente:
+- Sin fecha límite de asignación
+- Código de inicio de un repositorio en su organización (¿Necesita ayuda para crear un repositorio? Vea nuestro [video de conceptos básicos de Git y GitHub] (https://www.youtube.com/watch?v=tswF0wpAbTo))
+- Visibilidad del repositorio privado
+- Solicitudes de extracción de comentarios habilitadas en todos los repositorios de estudiantes
   
 ## Submission
-To submit this assignment, create an issue titled `Module 3.2 Assignment` in this repository. In the issue, provide the invitation link to accept the assignment you created then proceed to the next section in this module.
-
+Para enviar esta tarea, cree un problema titulado "Asignación del módulo 3.2" en este repositorio. En el problema, proporcione el enlace de invitación para aceptar la tarea que creó y luego continúe con la siguiente sección de este módulo.
