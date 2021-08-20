@@ -1,22 +1,22 @@
-# Module 1.1 Assignment
+# Módulo 1.1 Asignación
 
-For a majority of your assignments you will create issues on GitHub.
+Para la mayoría de sus asignaciones, creará problemas en GitHub.
 
-In order to create an issue you will travel to the tab marked as `Issues`:
+Para crear un problema, viajará a la pestaña marcada como "Problemas":
 
-![](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_one.png)
+! [] (https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_one.png)
 
-Once you click on that tab you will see all the current issues in this repository. At this point, no issues have been created. Let's create a new issue by clicking `New issue`
+Una vez que haga clic en esa pestaña, verá todos los problemas actuales en este repositorio. En este punto, no se han creado problemas. Creemos un nuevo problema haciendo clic en "Nuevo problema".
 
-![](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_two.png)
+! [] (https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_two.png)
 
-Once you have created a new issue, you will be greeted by the screen below. Here you will provide
-* A title for your issue (Every title should be the name of the assignment, so in this case it is "Module 1.1 Assignment")
-* A body for your issue to write a response or upload a screenshot
-* A submission button
+Una vez que haya creado un nuevo problema, será recibido por la pantalla a continuación. Aquí proporcionarás
+* Un título para su problema (cada título debe ser el nombre de la tarea, por lo que en este caso es "Tarea del módulo 1.1")
+* Un cuerpo para su problema para escribir una respuesta o cargar una captura de pantalla
+* Un botón de envío
 
-![](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_three.png)
+! [] (https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_three.png)
 
-For the Module 1.1 Assignment, copy the question below and paste it into the body of the issue, then answer it:
+Para la Tarea del Módulo 1.1, copie la pregunta a continuación y péguela en el cuerpo del problema, luego respóndala:
 
-`Given what you have learned about Git, why would you want to use Git in your classroom?`
+`Teniendo en cuenta lo que has aprendido sobre Git, ¿por qué querrías usar Git en tu salón de clases?
