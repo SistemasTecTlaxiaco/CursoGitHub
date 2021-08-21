@@ -5,7 +5,7 @@ En esta tarea, aprenderá a clonar un repositorio en GitHub en su máquina local
 
 1. Navegue a la página principal de este repositorio en GitHub. Haga clic en el botón verde que dice "Código" y luego copie la URL haciendo clic en el icono gris del portapapeles.
  
-     ! [GIF que muestra cómo copiar una URL remota] (https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/ca-eval-updates/Module%202/assets/clone-code. gif)
+     ! [GIF que muestra cómo copiar una URL remota] (https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/ca-eval-updates/Module%202/assets/clone-code.gif)
 
 2. En la línea de comando, escriba `git clone` junto con la URL que copió anteriormente, luego presione Enter.
 ''
