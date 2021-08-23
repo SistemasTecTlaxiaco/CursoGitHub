@@ -1,8 +1,7 @@
 # Module 1.4 Asignación
 
 En esta lección, se le presentó la herramienta [Visualizing Git] (http://git-school.github.io/visualizing-git/). Me gustaría que replicara esta visualización usando Visulaizing Git:
-
-! [Una visualización de git que muestra puntos para representar confirmaciones. De izquierda a derecha, hay una confirmación etiquetada como "primera confirmación", luego otra confirmación. A partir de ahí, las confirmaciones se bifurcan en dos direcciones. Hay una línea que continúa extendiéndose directamente hacia la derecha con 1 confirmación que tiene una etiqueta de rama que dice "nueva característica". Hay otra línea diagonal que se extiende desde la bifurcación hacia arriba y hacia la derecha. La línea diagonal tiene 1 confirmación resaltada en verde que tiene una etiqueta de rama, "maestra", así como una etiqueta que dice "HEAD".] (Https://github.com/github-campus-advisors/Campus-Advisor- Entrenamiento / blob / master / Module% 201 / assets / visualize_git.png)
+![A git visualization showing dots to represent commits. From left to right, there is a commit labeled "first commit", then another commit. From there the commits fork into two directions. There is a line continuing to extend straight to the right with 1 commit that has a branch label that says "new-feature". There is another diagonal line extending from the fork going up and to the right. The diagonal line has 1 commit highlighted in green that has a branch label, "master", as well as a label that says "HEAD".](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/visualize_git.png)
 
 Tenga en cuenta que hay más de una forma de replicar esta visualización.
 
