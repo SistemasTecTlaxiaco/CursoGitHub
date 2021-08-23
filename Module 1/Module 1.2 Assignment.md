@@ -1,6 +1,7 @@
 Para la asignación del módulo 1.2, abrirá su línea de comando y completará lo siguiente:
 
 - [ ] Crea un directorio usando el comando `mkdir`
+- [ ] Cambiarse se directorio con el comando `cd` 
 - [ ] En el directorio que creaste, inicializa Git usando `git init`
 - [ ] Cree un archivo README.md en su directorio usando el comando `touch`
 - [ ] Asegúrese de que README.md esté en su _Working Directory_ verificando su estado con `git status`
