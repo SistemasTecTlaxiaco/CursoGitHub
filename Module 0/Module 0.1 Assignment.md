@@ -24,4 +24,4 @@ $ git config --global user.email "email@example.com"
 Git utilizará esta información cuando trabaje en un proyecto.
 
 ## Sumisión
-There is no submission for this assignment
+No hay envío para esta tarea
