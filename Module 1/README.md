@@ -36,3 +36,5 @@ En este módulo se le presentará a Git. Este módulo cubrirá:
 
 :notebook: Completar la asignación del módulo 1.4
 
+## Retroalimentación de fin de módulo
+ Dar click en el siguiente link (https://quizizz.com/join/quiz/6124755567a39e001de679f3/start?studentShare=true)
