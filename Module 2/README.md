@@ -35,3 +35,6 @@ En este módulo, se le presentará GitHub. Este módulo cubrirá:
 [:tv: Modulo 2.4 Video](https://youtu.be/c1210JclnPw)
 
 :notebook: Completar la asignación del módulo 2.4
+
+## Retroalimentacion 
+
