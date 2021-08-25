@@ -37,4 +37,4 @@ En este módulo, se le presentará GitHub. Este módulo cubrirá:
 :notebook: Completar la asignación del módulo 2.4
 
 ## Retroalimentacion 
-
+(https://quizizz.com/join/quiz/6125c1d0c3e533001e387876/start?studentShare=true)
