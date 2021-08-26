@@ -2,7 +2,7 @@
 
 En esta sección, aprendió cómo crear tareas integradas con un IDE en línea, lo que les permite a los estudiantes completar su trabajo en un entorno de desarrollo consistente.
 
-En esta tarea, creará una tarea en GitHub Classroom con una integración IDE de su elección (Repl.it o MakeCode):
+En esta tarea, creará una tarea en GitHub Classroom con una integración IDE de su elección (Visual Studio o MakeCode):
  - Crea una nueva tarea en tu salón de clases
  - Complete los detalles básicos de la tarea si se le solicita y luego haga clic en "Continuar"
  - Agregue un repositorio para darles a los estudiantes un código de inicio
