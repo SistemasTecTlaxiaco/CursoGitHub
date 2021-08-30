@@ -35,3 +35,4 @@ Equivalente: finalización del programa de desarrollo profesional para maestros 
 :notebook: Completar la asignación del módulo 3.4
 
 ## Retroalimentación del módulo 3
+Dar click en el siguiente link para realizar actividad (https://quizizz.com/admin/quiz/612c71c1ae56cc001d867add/startV4)
