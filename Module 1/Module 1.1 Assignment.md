@@ -2,11 +2,11 @@
 
 Para la mayoría de sus asignaciones, creará problemas en GitHub.
 
-Para crear un problema, viajará a la pestaña marcada como "Problemas":
+Para crear un problema, viajará a la pestaña marcada como "Issues" Incidencias:
 
 (https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_one.png)
 
-Una vez que haga clic en esa pestaña, verá todos los problemas actuales en este repositorio. En este punto, no se han creado problemas. Creemos un nuevo problema haciendo clic en "Nuevo problema".
+Una vez que haga clic en esa pestaña, verá todos las Issues actuales en este repositorio. En este punto, no se han creado problemas. Creemos un nuevo problema haciendo clic en "Nueva Issues".
 
 (https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_two.png)
 
