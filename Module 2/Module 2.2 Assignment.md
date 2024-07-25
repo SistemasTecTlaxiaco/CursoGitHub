@@ -9,4 +9,4 @@ En esta lección, aprendió cómo confirmar cambios en archivos, crear ramas y o
 
 
 ## Sumisión
-Para enviar esta tarea, cree un problema titulado "Asignación del módulo 2.2" en este repositorio. En el problema, proporcione una captura de pantalla de su línea de comandos que muestre los comandos que utilizó para completar esta tarea, luego continúe con la siguiente sección de este módulo.
+Para enviar esta tarea, cree un Issue titulado "Asignación del módulo 2.2" en este repositorio. En el problema, proporcione una captura de pantalla de su línea de comandos que muestre los comandos que utilizó para completar esta tarea, luego continúe con la siguiente sección de este módulo.
