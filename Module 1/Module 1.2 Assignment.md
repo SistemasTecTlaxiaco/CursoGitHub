@@ -11,7 +11,7 @@ Para la asignación del módulo 1.2, abrirá su línea de comando y completará 
 - [ ] Asegúrese de que su _Directorio de trabajo_ y el _Área de preparación_ estén limpios con `git status`
 - [ ] Asegúrate de que tu confirmación se haya registrado en tu repositorio usando `git log`
 
-Una vez que haya completado estos pasos, tome una captura de pantalla de su línea de comando, con los pasos anteriores, y cargue su captura de pantalla en un nuevo "Problema" titulado "Asignación del módulo 1.2". He agregado la captura de pantalla de la Asignación del Módulo 1.1 como referencia.
+Una vez que haya completado estos pasos, tome una captura de pantalla de su línea de comando, con los pasos anteriores, y cargue su captura de pantalla en un nuevo "Issues" titulado "Asignación del módulo 1.2". He agregado la captura de pantalla de la Asignación del Módulo 1.1 como referencia.
 
 ! [] (https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_three.png)
 
