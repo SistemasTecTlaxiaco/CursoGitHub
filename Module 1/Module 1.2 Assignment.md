@@ -15,4 +15,4 @@ Una vez que haya completado estos pasos, tome una captura de pantalla de su lín
 
 ! [] (https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_three.png)
 
-En el cuerpo del problema, puede arrastrar y soltar su captura de pantalla o buscarla en su dispositivo. Una vez que haya agregado la captura de pantalla, puede enviar el problema y pasar a la siguiente lección.
+En el cuerpo del problema, puede arrastrar y soltar su captura de pantalla o buscarla en su dispositivo. Una vez que haya agregado la captura de pantalla, puede enviar el Issue y pasar a la siguiente lección.
