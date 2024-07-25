@@ -11,8 +11,8 @@ Una vez que haga clic en esa pestaña, verá todos las Issues actuales en este r
 (https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_two.png)
 
 Una vez que haya creado un nuevo Issues, será recibido por la pantalla a continuación. Aquí proporcionarás
-* Un título para su problema (cada título debe ser el nombre de la tarea, por lo que en este caso es "Tarea del módulo 1.1")
-* Un cuerpo para su problema para escribir una respuesta o cargar una captura de pantalla
+* Un título para su Issues (cada título debe ser el nombre de la tarea, por lo que en este caso es "Tarea del módulo 1.1")
+* Un cuerpo para su Issues para escribir una respuesta o cargar una captura de pantalla
 * Un botón de envío
 
 (https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_three.png)
