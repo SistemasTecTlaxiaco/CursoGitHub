@@ -2,7 +2,7 @@
 
 Please answer the following questions on the GitHub Education Community forum here:
 
-https://education.github.community/t/module-4-exercise-1-student-programs/26002?u=ericdrosado
+https://github.com/education/schools
 
 1. Describe the existing technical student communities on your campus. Who is served? Where are there gaps?
 2. Choose one GitHub Education program. How could it support your on-campus student communities?
