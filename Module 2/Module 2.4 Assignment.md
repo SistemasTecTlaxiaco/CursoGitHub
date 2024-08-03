@@ -24,4 +24,4 @@ git merge new-branch
 Este "script" creará un conflicto de fusión. Resuelva el conflicto de fusión para que el texto en `README.md` sea` "Hola mundo" `.
 
 ## Sumisión
-Para enviar esta tarea, cree un problema Issue "Asignación del módulo 2.4" en este repositorio. En el problema, proporcione una captura de pantalla de su línea de comandos que muestre los comandos que usó para resolver el conflicto de fusión en esta asignación, luego continúe con el siguiente módulo.
+Para enviar esta tarea, cree un Issue "Asignación del módulo 2.4" en este repositorio. En el problema, proporcione una captura de pantalla de su línea de comandos que muestre los comandos que usó para resolver el conflicto de fusión en esta asignación, luego continúe con el siguiente módulo.
