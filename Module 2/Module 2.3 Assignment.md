@@ -10,4 +10,4 @@ En esta lección, aprendió más sobre cómo se usan las ramas en el flujo de tr
 5. Elimine la rama "asignación-edición" después de haber fusionado correctamente su rama
 
 ## Sumisión
-Para enviar esta tarea, cree un problema titulado "Asignación del módulo 2.3" en este repositorio. En el problema, proporcione una captura de pantalla de su línea de comandos que muestre los comandos que utilizó para completar esta tarea, luego continúe con la siguiente sección de este módulo.
+Para enviar esta tarea, cree un Issue titulado "Asignación del módulo 2.3" en este repositorio. En el problema, proporcione una captura de pantalla de su línea de comandos que muestre los comandos que utilizó para completar esta tarea, luego continúe con la siguiente sección de este módulo.
