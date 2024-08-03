@@ -19,4 +19,4 @@ Para esta tarea, crea una tarea individual en GitHub Classroom que contenga lo s
 - Solicitudes de extracción de comentarios habilitadas en todos los repositorios de estudiantes
   
 ## Submission
-Para enviar esta tarea, cree un problema titulado "Asignación del módulo 3.2" en este repositorio. En el problema, proporcione el enlace de invitación para aceptar la tarea que creó y luego continúe con la siguiente sección de este módulo.
+Para enviar esta tarea, cree un Issue titulado "Asignación del módulo 3.2" en este repositorio. En el problema, proporcione el enlace de invitación para aceptar la tarea que creó y luego continúe con la siguiente sección de este módulo.
