@@ -17,4 +17,4 @@ En esta tarea, creará una tarea en GitHub Classroom con una prueba de calificac
 Una vez que haya creado su tarea, puede compartir la URL de invitación a la tarea con sus alumnos. Cuando los estudiantes aceptan la tarea, las pruebas de calificación automática se ejecutarán después de cada envío que realicen a su repositorio. 
 
 ## Sumisión
-Para enviar esta tarea, cree un problema titulado "Módulo 3.4 Asignación" en este repositorio. En el problema, proporcione el enlace a la pestaña Acciones en la tarea que creó para mostrar su prueba de calificación automática, luego continúe con el siguiente módulo.
+Para enviar esta tarea, cree un Issue titulado "Módulo 3.4 Asignación" en este repositorio. En el problema, proporcione el enlace a la pestaña Acciones en la tarea que creó para mostrar su prueba de calificación automática, luego continúe con el siguiente módulo.
