@@ -2,7 +2,7 @@
 
 Para la mayoría de sus asignaciones, creará problemas en GitHub.
 
-Para crear un problema, viajará a la pestaña marcada como "Issues" Incidencias:
+Para crear un Issue, viajará a la pestaña marcada como "Issues" Incidencias:
 
 (https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_one.png)
 
