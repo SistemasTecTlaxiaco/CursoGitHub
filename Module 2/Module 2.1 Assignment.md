@@ -17,4 +17,4 @@ $ git clone https://github.com/YOUR-REPOSITORY.git
 
 
 ## Sumisión
-Para enviar esta tarea, cree un problema titulado "Asignación del módulo 2.1" en este repositorio. En el problema, proporcione una captura de pantalla de su línea de comandos que muestre los comandos que utilizó para completar esta tarea, luego continúe con la siguiente sección de este módulo.
+Para enviar esta tarea, cree un Issue titulado "Asignación del módulo 2.1" en este repositorio. En el problema, proporcione una captura de pantalla de su línea de comandos que muestre los comandos que utilizó para completar esta tarea, luego continúe con la siguiente sección de este módulo.

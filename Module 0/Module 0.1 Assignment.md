@@ -1,4 +1,4 @@
-# Tarea 0.1: Primeros pasos
+# Tarea 0.1: Primeros pasos para GitHub
 1. Regístrese para obtener una cuenta en [github.com] (https://github.com/).
 2. [Descargar] (https://git-scm.com/downloads), instalar y [configurar] (https://git-scm.com/book/en/v2/Getting-Started-First-Time- Configuración de Git) git. Los usuarios de Windows deben instalar [Git para Windows] (https://gitforwindows.org/).
 3. Si es nuevo en Git, GitHub y la línea de comandos, le recomendamos [descargar ATOM] (https://atom.io/), un editor de texto, que está disponible para Mac, Linux y Windows. ATOM se utilizará en todos los módulos.

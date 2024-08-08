@@ -6,7 +6,7 @@ En esta lección, aprendió a crear su propio Classroom. Para esta tarea, reorga
 3. Empiece en aula.github.com e inicie sesión con su cuenta de GitHub.
 4. Haga clic en el botón "Crear su primera aula" y, luego, cree o autorice una organización para su nueva aula.
 5. Invite a los asistentes técnicos y administradores a su organización de GitHub y envíeles la URL de su invitación al aula.
-6. Nombre su salón de clases (por ejemplo, Otoño de 2020 CS101), luego haga clic en Continuar
+6. Nombre su salón de clases (por ejemplo, Otoño de 2021 CS101), luego haga clic en Continuar
 
 ## Sumisión
 

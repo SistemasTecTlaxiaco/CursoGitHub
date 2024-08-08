@@ -8,4 +8,4 @@ Tenga en cuenta que hay más de una forma de replicar esta visualización.
 - [ ] Vaya a [Visualizing Git] (http://git-school.github.io/visualizing-git/)
 - [ ] Replica la imagen de arriba determinando la secuencia correcta de comandos git
 - [ ] Toma una captura de pantalla de tu trabajo, incluida la línea de comando, en el visualizador.
-- [ ] Sube tu captura de pantalla a un nuevo problema titulado Asignación del módulo 1.4.
+- [ ] Sube tu captura de pantalla a un nuevo Issue titulado Asignación del módulo 1.4.
