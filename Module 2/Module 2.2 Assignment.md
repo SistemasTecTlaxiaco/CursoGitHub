@@ -1,6 +1,6 @@
-# Módulo 2.2 Asignación Jose Alfredo Roman
 
-En esta lección, aprendió cómo confirmar cambios en archivos, crear ramas, obtener y extraer actualizaciones de GitHub. Para completar esta tarea, cambiará este archivo en una nueva rama en GitHub y luego extraerá los cambios a su repositorio local siguiendo las instrucciones a continuación:
+# Módulo 2.2 Asignación Jose Alfredo Roman Cruz hice cambios en remoto
+En esta lección, aprendió cómo confirmar cambios en archivos, crear ramas y obtener y extraer actualizaciones de GitHub. Para completar esta tarea, cambiará este archivo en una nueva rama en GitHub y luego extraerá los cambios a su repositorio local siguiendo las instrucciones a continuación:
 
 1. Cree una nueva rama llamada `editar-asignación-módulo` en GitHub
 2. En la rama `editar-módulo-asignación`, edite este archivo` Módulo 2.2 Asignación.md` haciendo clic en el icono de lápiz o 'Editar'
